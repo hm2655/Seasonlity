@@ -8,3 +8,5 @@ I am more of an energy  market person, and thus would give a head start with fol
 2. Crude Oil 
 
 As we mature these algorithms, the next steps shall follow.
+
+The go to resource would be Quandl to get contract specific data.
